@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_a_member_log_in">Already a member? Log in</string>
+</resources>
